@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-image: url("image/sora.jpg");
+}
+
+header{
+    background-image: url(image/kannihedda-.jpg);
+}
+
+h1{
+    color: aquamarine;
+}
